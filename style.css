@@ -1,0 +1,28 @@
+body {
+  background-color: #00a5e1;
+}
+.main_index {
+  background-color: #000000;
+  color: #ffffff;
+  border-radius: 10px;
+  border: 5px solid #df5900;
+  padding: 50px;
+}
+
+.header {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 15px;
+}
+.header a,
+.main_index a {
+  color: #ffffff;
+  text-decoration: none;
+}
+.header h4,
+.header p {
+  margin: 0px;
+}
+.appheading {
+  text-align: center;
+}
